@@ -1,0 +1,11 @@
+type: Workflow
+version: 1.0.0
+main:
+    id: 7636634817694203919
+    name: LiveStream_Review_Pro
+    desc: 自动化直播间复盘与高光切片脚本生成工作流
+    icon: plugin_icon/workflow.png
+    version: ""
+    flowMode: 0
+    commitId: ""
+sub: []
