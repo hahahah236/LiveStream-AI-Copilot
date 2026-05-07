@@ -16,8 +16,8 @@ Nurture Mode (False)：切换至信任构建策略，侧重品类教育与互动
 /data：极端环境测试集。包含 hot_rich（高并发高干扰）与 cold_rich（低频次信任缺失）样本。
 
 测试与复现
-导入：将 /workflow 导入 Coze 平台。
-场景验证：
+1.导入：将 /workflow 导入 Coze 平台。
+2.场景验证：
 输入 sample_hot_rich.txt -> 验证是否输出【收割模式】建议。
 输入 sample_cold_rich.txt -> 验证是否输出【沉水模式】建议。
 
